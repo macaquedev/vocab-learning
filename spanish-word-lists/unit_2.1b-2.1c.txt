@@ -1,0 +1,41 @@
+altísimo : very tall
+bajo : short
+ser criado : to be raised (in a certain way)
+delgado : thin
+las gafas : glasses
+liso : straight (hair)
+llevar audífono : to wear a hearing aid
+mayor : old(er)
+ondulado : wavy
+la piel : skin
+rubio : blonde/fair hair
+tranquilo : calm, quiet, tranquil
+
+aburrido : boring
+absurdo : silly
+animado : lively
+ansioso : anxious
+la ansiedad : anxiety
+cobarde : cowardly
+curioso : curious
+desordenado : untidy
+divertido : fun
+estúpido : stupid
+grueso : thick
+la estrella : star
+hablador : talkative
+maleducado : rude
+el optimismo : optimism
+optimista : optimistic
+perezoso : lazy
+el pesimismo : pessimism
+pesimista : pessimistic
+popular : popular
+simpático : nice
+solitario : lonely
+soltero : single
+tacaño : mean
+tímido : shy, timid
+tonto : silly
+trabajador : hardworking
+vago : lazy (strong!)

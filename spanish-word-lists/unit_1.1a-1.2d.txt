@@ -1,0 +1,191 @@
+acogedor : cosy
+a las afueras de : on the outskirts of
+la aldea : village
+el apartamento : apartment
+el barrio : neighbourhood
+el campo : countryside
+el campo : field
+la casa : house
+la casa adosada : semi:detached house
+en el centro de : in the centre of
+cerca de : near to
+el chalet : cottage
+la ciudad : city
+la costa : coast
+la granja : farm
+lejos de : far from
+el lugar : place
+la montaña : mountain
+nacer : to be born
+el país de residencia : country of residence
+el piso : flat
+el pueblo : town
+situarse : to be situated
+la valla : fence
+vivir : to live
+
+aislado : isolated
+el altavoz : speaker
+amplio : wide
+atractivo : attractive
+la butaca : armchair
+la calefacción : heating
+la caravana : caravan
+la chimenea : chimney
+cómodo : comfortable
+el despacho : office
+enorme : enormous
+la entrada : hallway
+las escaleras : staircase
+espacioso : spacious
+estrecho : narrow
+la fachada : facade
+el fregadero : sink
+el gas : gas
+el grifo : tap
+luminoso : bright
+los muebles : furniture
+el muro : wall
+oscuro : dark
+el pasillo : corridor
+la planta : floor
+la planta baja : ground floor
+el recibidor : hallway
+
+arreglar : to fix
+la batería : battery
+la caja : box
+el cargador : charger
+la cocina : kitchen
+comer : to eat
+deletrear : to spell
+dormir : to sleep
+el enchufe : plug
+estar : to be
+el florero : vase
+el fogón : cooker
+hacer : to do
+el horno : oven
+la intimidad : privacy
+el lavaplatos : dishwasher
+leer : to read
+la madera : wood
+la manta : blanket
+el microondas : microwave
+el ordenador : computer
+pasar : to happen
+permitir : to allow
+preparar : to prepare
+relajarse : to relax
+el sillón : armchair
+subir : to upload
+
+la alfombra : rug
+al lado de : next to
+la almohada : pillow
+el cocinero : chef
+el congelador : freezer
+congelar : to freeze
+el cuadro : picture
+debajo de : under
+delante de : in front of
+a la derecha de : on the right of
+detrás de : behind
+los electrodomésticos : electrical appliances
+encima de : on top of
+entre : between
+el espejo : mirror
+la estantería : shelf
+el horno : oven
+a la izquierda : on the left
+el lavaplatos : dishwasher
+el microondas : microwave
+la muñeca : doll
+el paisaje : landscape
+pintar : to paint
+el reloj : clock
+el rincón : corner
+sobre : above
+el tamaño : size
+el váter : toilet
+
+aburrido : boring
+la asignatura : school subject
+la biología : biology
+las ciencias : sciences
+complejo : complex
+el dibujo : drawing
+difícil : difficult
+divertido : fun
+los deberes : homework
+entretenido : entertaining
+entusiasta : enthusiastic
+entusiasmar : to delight
+fácil : easy
+la física : physics
+el idioma : language
+el instituto : school
+interesante : interesting
+la lengua : language
+las matemáticas : maths
+la música : music
+el profesor : teacher
+el recreo : break
+la religión : RE
+una pérdida de tiempo : waste of time
+útil : useful
+
+el ajedrez : chess
+aprender : to learn
+charlar : to chat
+el coro : choir
+el descanso : break
+durar : to last
+empezar : to start
+la fotografía : photography
+el mediodía : midday
+el patio : playground
+el taller : workshop
+terminar : to finish
+
+el aula : classroom
+la biblioteca : library
+la cancha : court
+la cantina : canteen
+el edificio : building
+fuera : outside
+el gimnasio : gymnasium
+el huerto : garden
+la instalación : facility
+el laboratorio : laboratory
+el patio : playground
+la pista : track
+la pizarra : black board
+la pizarra interactiva : smart board
+la planta : floor
+el polideportivo : sports centre
+el reciclaje : recycling
+la sala de profesores : staff room
+el salón de actos : theatre
+el timbre : bell
+
+acceder : to agree
+adquirir : to acquire
+el alumno : pupil
+cambiar : to change
+el curso : course
+escolar : school (adjective!)
+especializado : specialist (adjective!)
+el horario : timetable
+la instalación : facility
+la lección : lesson
+la mayoría : majority
+mejor : better
+el mejor : best
+la minoría : minority
+montar : to ride
+montar : to get on
+obligatorio : compulsory
+optativo : optional
+propio : own (we have our own sports fields)
+el proyecto : project

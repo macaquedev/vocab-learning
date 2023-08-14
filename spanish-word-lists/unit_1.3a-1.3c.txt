@@ -1,0 +1,89 @@
+el agua : water
+almorzar : to have lunch
+el arroz : rice
+la carne : meat
+la berenjena : aubergine
+la cebolla : onion
+cenar : to have dinner
+el cerdo : pork
+la col : cabbage
+la coliflor : cauliflower
+comer : to eat
+el cordero : lamb
+el desayuno : breakfast
+la ensalada : salad
+el gazpacho : gazpacho
+el huevo : egg
+la leche : milk
+la limonada : lemonade
+la mantequilla : butter
+el marisco : seafood
+la mayonesa : mayonnaise
+la mermelada : jam
+el pan : bread
+la pimienta : pepper (spice!)
+el pimiento : pepper (vegetable!)
+el pollo : chicken
+la sal : salt
+la salsa : sauce
+la soja : soya
+la ternera : beef
+el tofu : tofu
+las uvas : grapes
+las verduras : vegetables
+el vinagre : vinegar
+
+amargo : bitter
+el aperitivo : starter
+la cereza : cherry
+la ciruela : plum
+contener : to contain
+delicioso : delicious
+dulce : sweet
+encantar : to love
+evitar : to avoid
+fascinar : to fascinate
+fresco : fresh
+la galleta : biscuit
+grasiento : fatty
+gustar : to like
+el helado : ice cream
+interesar : to interest
+jugoso : juicy
+la mezcla : mixture
+la nuez : nut
+el pastel : cake
+picante : spicy
+el plato : dish, course, plate
+el postre : dessert
+recomendar : to recommend
+rico : tasty, rich
+salado : salty
+la salchicha : sausage
+la salsa : sauce
+servir : to serve
+la tarta : cake
+la zanahoria : carrot
+
+el aceite : oil
+afectar : to affect
+el alimento : food
+el almuerzo : lunch
+la amenaza : threat
+asar a la parrilla : to grill
+asar a la barbacoa : to barbecue
+la cantidad : quantity
+cocinar : to cook
+contener : to contain
+el corazón : heart
+dejar : to stop
+equilibrado : balanced
+guardar : to save/to keep
+el horno : oven
+el ingrediente : ingredient
+el pastel : cake
+perjudicial : harmful
+recomendar : to recommend
+el refresco : soft drink
+seco : dry
+suficiente : enough

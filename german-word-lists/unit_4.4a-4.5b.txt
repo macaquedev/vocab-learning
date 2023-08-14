@@ -1,0 +1,98 @@
+die Agentur : agency
+annehmen : to accept
+die Bezahlung : payment
+gefallen : to please
+die Gelegenheitsarbeit : casual work
+der Gelegenheitsjob : casual job
+das Geschäft : shop
+die Gesellschaft : company
+die Küche : kitchen
+der Nachhilfeschüler : private pupil
+nett : nice
+das Praktikum : internship
+die Reparatur : repair
+das Schiff : ship
+schmecken : to taste
+der Tiergarten : zoo
+der Tipp : tip
+verdienen : to earn
+
+die Anzeige : advertisement
+die Bewerbung : application
+die Erfahrung : experience
+erzählen : to tell, to narrate
+das Gehalt : salary
+der Job : job
+der Kunde : client
+möglich : possible
+der Moment : moment
+der Nachbar : neighbour
+nützlich : useful
+probieren : try
+reparieren : to repair
+spannend : exciting
+die Stelle : position
+studieren : to study
+das Studium : degree, course, studies
+suchen : to look for
+unterstützen : to support
+verdienen : to earn
+die Werkstatt : workshop
+das Werkzeug : tool
+das Wochenende : weekend
+
+anschalten : to switch on
+die Batterie : battery
+der Bildschirm : screen
+das Büro : office
+chatten : to chat
+erklären : to explain
+das Gerät : device
+das Handy : mobile phone
+holen : to get
+das Internet : internet
+die Kantine : canteen
+das Ladegerät : charger
+der Lautsprecher : loudspeaker
+öffnen : to open
+das Passwort : password
+der PC : PC
+das Projekt : project
+der Scanner : scanner
+schließen : to close
+senden : to send
+die Sicherheit : security
+simsen : to text
+der Stecker : plug
+suchen : to look for
+überprüfen : to check
+die Videokonferenz : video conference
+wissen : to know
+zufrieden : content
+
+der Arbeitgeber : employer
+der Arbeitsplatz : workplace
+das Arbeitspraktikum : work experience
+beenden : to finish
+beliebt : popular
+die Besprechung : meeting
+die Datei : file
+das Dokument : document
+der Drucker : printer
+fühlen : to feel
+funktionieren : to work
+das Gespräch : conversation
+das Homeoffice : home office
+negativ : negative
+Notizen machen : to take notes
+öffnen : to open
+der Ordner : file, folder
+der Plan : plan
+positiv : positive
+die Programmiersprache : programming language
+die Software : software
+stressig : stressful
+traurig : sad
+die Umwelt : environment
+der USB-Stick : USB stick
+zeigen : to show

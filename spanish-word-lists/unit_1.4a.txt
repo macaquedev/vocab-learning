@@ -1,0 +1,27 @@
+el brazo : arm
+la cabeza : head
+el cuello : neck
+el dedo : finger
+el dedo de pie : toe
+doler : to hurt
+el dolor : pain
+la espalda : back
+estar constipado : to have a cold
+estar enfermo : to be ill
+el estómago : stomach
+la garganta : throat
+el hombro : shoulder
+el hueso : bone
+la mano : hand
+las muelas : teeth
+el ojo : eye
+la oreja : ear
+el pecho : chest
+el pie : foot
+la pierna : leg
+la rodilla : knee
+sentirse bien : to feel well
+sentirse mal : to feel ill
+tener una enfermedad : to have an illness
+tener un catarro : to have a cold
+tumbarse : to lie down
