@@ -1,15 +1,4 @@
-ausdrücken : to express
-der Beispielsatz : example sentence
-folgend : following (adjective)
-andere : other
-das Ereignis : event, incident
-mündlich : verbal
-die Regel : rule
-die Vergangenheit : the past
-verwenden : to use
-der Zeitungsartikel : newspaper article
-beenden : to end
-unbedingt : absolutely
+
 erkennen : to recognize
 heutzutage : nowadays
 pflegen : to cultivate
