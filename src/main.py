@@ -86,7 +86,7 @@ if __name__ == '__main__':
             user_answer = None
             while not user_answer:
                 try:
-                    user_answer = "".join([i for i in input(f"{correct+wrong+1}. {word.english}: ").strip() if i in string.ascii_letters + " üöäßáéíóúñ-'"])
+                    user_answer = "".join([i for i in input(f"{correct+wrong+1}. {word.english}: ").strip() if i in string.ascii_letters + " ÜÖÄüöäßÁÉÍÓÚÑáéíóúñ-'"])
                 except UnicodeDecodeError:
                     print("Something went wrong. Please input the word again.")
 
