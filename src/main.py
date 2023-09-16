@@ -18,7 +18,7 @@ if __name__ == '__main__':
         Token.Question: '',
     })
 
-    with open(relpath("..", "new_words.txt")) as f:
+    with open(relpath("..", "new_words.txt"), encoding="utf-8") as f:
         data = f.readlines()
 
     words = WordBank()
