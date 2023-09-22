@@ -4,7 +4,7 @@ import datetime
 
 
 cardbox_name = "German"
-days = 1
+days = -1
 
 with open(os.path.join(os.path.dirname(__file__), "..", "cardboxes", cardbox_name), "rb") as f:
     data = pickle.load(f)

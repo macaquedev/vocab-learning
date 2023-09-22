@@ -66,7 +66,8 @@ heutig : present-day, current
 die Kaffeekanne : coffee pot
 der Knall : bang
 die Müllabfuhr : rubbish collection
-offensichtlich : apparently
+offensichtlich : obviously
+offenbar : apparently
 die Runde : lap (in racing), round (noun)
 das Schicksal : fate
 der Schreibtisch : desk
