@@ -1,0 +1,40 @@
+我: I, me
+我们: we, us
+你: you (singular)
+他: he
+她: she
+它: it
+这: this
+那: that
+哪: which?
+哪儿: where?
+谁: who?
+什么: what? why?
+多少: how much?
+几: how many?
+怎么: how?
+怎么样: how about?
+一: one
+二: two
+三: three
+四: four
+五: five
+六: six
+七: seven
+八: eight
+九: nine
+十: ten
+个: quantifier for normal objects
+岁: quantifier for age
+本: quantifier for books
+些: some
+块: piece, chunk
+不: no
+没: no
+很: quite, very
+太: too
+都: all
+一点儿: a little bit
+和: and
+在: to be located at, at (preposition)
+喂 : hello (on phone)

@@ -1,15 +1,14 @@
-#  8 outputs
-#  9 inputs
 
-OUTPUTS = 8
-INPUTS = 9
 
-print("Outputs")
+output = 0
 
-for i in range(1, OUTPUTS * INPUTS + 1, INPUTS):
-    print("Connect", list(range(i, i+INPUTS)), "to", int((i-1)/INPUTS)+1)
+for i in range(111112):
+    x = str(i)
+    result = [int(i) for i in x]
 
-print("\n\nInputs")
+    if sum(result) == 6 and 0 not in result:
+        print(x)
+        output += 1
 
-for i in range(INPUTS):
-    print("Connect", [j + i for j in range(1, OUTPUTS * INPUTS + 1, INPUTS)], "to", i+1)
+
+print(output)
