@@ -1,0 +1,40 @@
+学校: school
+饭店: restaurant
+商店: store
+医院: hospital
+火车站: train station
+中国: China
+北京: Beijing
+前面: front
+后面: behind
+里面: inside
+年: year
+点: dot, spot
+分钟: minute
+时候: time
+儿子: son
+女儿: daughter
+学生: student
+同学: schoolmate
+朋友: friend
+医生: doctor
+先生: Sir
+小姐: Miss
+衣服: cloth
+菜: vegetable
+杯子: cup
+钱: money
+飞机: airplane
+出租车: taxi
+电视: television
+电脑: computer
+电影: movie
+天气: weather
+东西: thing
+人: person
+名字: name
+书: book
+汉语: Mandarin Chinese
+字: character
+桌子: table, desk
+椅子: chair

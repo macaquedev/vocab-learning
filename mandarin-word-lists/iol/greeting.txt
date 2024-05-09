@@ -1,0 +1,10 @@
+好: good
+再见: goodbye
+见: to see
+老师: teacher
+谢谢: thank you
+早上: morning
+上午: before noon
+中午: noon
+下午: afternoon
+晚上: evening

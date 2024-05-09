@@ -2,8 +2,8 @@ import os
 import pickle
 import datetime
 
-cardbox_name = "German"
-days = 1
+cardbox_name = "Spanish"
+days = 4
 
 with open(os.path.join(os.path.dirname(__file__), "..", "cardboxes", cardbox_name), "rb") as f:
     data = pickle.load(f)

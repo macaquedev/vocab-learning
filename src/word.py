@@ -12,7 +12,8 @@ thresholds = [
     [30, 38],
     [40, 50],
     [50, 60],
-    [67, 80]
+    [67, 80],
+    [85, 95]
 ]
 
 
@@ -30,7 +31,7 @@ class Word:
         self.foreign.extend(new)
 
     def correct(self):
-        if self.current_cardbox < 9:
+        if self.current_cardbox <= 9:
             self.current_cardbox += 1
         self.date_next_due = (datetime.datetime.now() + datetime.timedelta(
             days=random.randint(

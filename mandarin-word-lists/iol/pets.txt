@@ -1,0 +1,8 @@
+猫: cat
+狗: dog
+学校: school
+商店: shop
+鸟: bird
+鱼: fish
+认识: to know
+高兴: happy

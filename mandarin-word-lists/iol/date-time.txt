@@ -1,0 +1,15 @@
+今天: today
+明天: tomorrow
+昨天: yesterday
+现在: now
+在: at/in/on
+天: day, sky, God
+星期: week
+月: moon, month
+号: date
+日: sun, day
+点: hour
+哪: where?
+生日: birthday
+分: minute
+秒: second

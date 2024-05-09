@@ -1,0 +1,23 @@
+我: I
+你: you
+他: he
+她: she
+我们: we
+你们: you
+这儿: here
+那儿: there
+谁: who
+家: home
+人: people
+爸爸: father
+妈妈: mother
+哥哥: older brother
+姐姐: older sister
+弟弟: younger brother
+妹妹: younger sister
+中国人: Chinese person
+英国人: British person
+是: to be/is/am/are
+有: to have/has
+没有: do not have
+和: and
