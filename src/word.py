@@ -22,7 +22,7 @@ class Word:
         self.foreign = [foreign]
         self.english = english
         self.current_cardbox = 0
-        self.date_next_due = datetime.datetime.now().replace(hour=0, minute=0, second=0)
+        self.date_next_due = datetime.datetime.now().replace(hour=4, minute=0, second=0)
 
     def due(self):
         return self.date_next_due <= datetime.datetime.now()
@@ -38,11 +38,11 @@ class Word:
                 thresholds[self.current_cardbox][0],
                 thresholds[self.current_cardbox][1]
             )
-        )).replace(hour=0, minute=0, second=0)
+        )).replace(hour=4, minute=0, second=0)
 
     def wrong(self):
         self.current_cardbox = 0
-        self.date_next_due = (datetime.datetime.now() + datetime.timedelta(days=1)).replace(hour=0, minute=0, second=0)
+        self.date_next_due = (datetime.datetime.now() + datetime.timedelta(days=1)).replace(hour=4, minute=0, second=0)
 
     def copy(self):
         a = Word("", "")

@@ -17,7 +17,6 @@ if __name__ == '__main__':
         Token.Answer: '#2196f3 bold',
         Token.Question: '',
     })
-
     with open(relpath("..", "new_words.txt"), encoding="utf-8") as f:
         data = f.readlines()
 
@@ -103,6 +102,9 @@ if __name__ == '__main__':
                 print(word)
                 wrong += 1
 
+    with open(relpath("..", "cardboxes", cardbox_name), "wb") as f:
+        pickle.dump(data, f)
+
     if correct == wrong == 0:
         print("No words due now.")
         exit(-1)
@@ -110,6 +112,3 @@ if __name__ == '__main__':
     print(f"Words correct: {correct}")
     print(f"Words wrong: {wrong}")
     print(f"Score: {round(correct / (correct + wrong) * 100, 2)}%")
-
-    with open(relpath("..", "cardboxes", cardbox_name), "wb") as f:
-        pickle.dump(data, f)
