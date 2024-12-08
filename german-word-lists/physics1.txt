@@ -1,0 +1,30 @@
+die Kraft : force
+die Energie : energy
+die Leistung : power
+die Arbeit : work
+der Impuls : momentum
+die Geschwindigkeit : velocity
+die Beschleunigung : acceleration
+die Masse : mass
+das Gewicht : weight
+der Druck : pressure
+die Dichte : density
+die Frequenz : frequency
+die Wellenlänge : wavelength
+die Amplitude : amplitude
+der Widerstand : resistance
+die Spannung : voltage
+der Strom : current
+der Schaltkreis : circuit
+der Magnetismus : magnetism
+das Elektrische Feld : electric field
+das Gravitationsfeld : gravitational field
+die Kinetische Energie : kinetic energy
+die Potenzielle Energie : potential energy
+die Wärmeenergie : thermal energy
+die Brechung : refraction
+die Beugung : diffraction
+die Schwingung : oscillation
+das Newtonsche Gesetz : Newton's laws
+die Erhaltungssätze : conservation laws
+das Ohmsche Gesetz : Ohm's law

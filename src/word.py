@@ -4,16 +4,21 @@ import random
 
 thresholds = [
     [1, 1],
-    [2, 5],
-    [8, 10],
-    [12, 16],
-    [17, 20],
-    [23, 28],
-    [30, 38],
-    [40, 50],
-    [50, 60],
-    [67, 80],
-    [85, 95]
+    [2, 6],
+    [9, 12],
+    [13, 18],
+    [19, 24],
+    [25, 32],
+    [33, 42],
+    [43, 55],
+    [56, 68],
+    [70, 85],
+    [88, 100],
+    [105, 120],
+    [125, 140],
+    [145, 160],
+    [165, 180],
+    [190, 210]
 ]
 
 
@@ -31,7 +36,7 @@ class Word:
         self.foreign.extend(new)
 
     def correct(self):
-        if self.current_cardbox <= 9:
+        if self.current_cardbox < len(thresholds) - 1:
             self.current_cardbox += 1
         self.date_next_due = (datetime.datetime.now() + datetime.timedelta(
             days=random.randint(
